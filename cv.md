@@ -19,7 +19,8 @@
 - Postman
 --------------------------
 ### Code example:
-#### Return String of First Characters KATA from CODEWARS: *In this exercise, a string is passed to a method and a new string has to be returned with the first character of each word in the string.*
+#### «Return String of First Characters» KATA from CODEWARS: 
+*In this exercise, a string is passed to a method and a new string has to be returned with the first character of each word in the string.*
 ```javascript
 function makeString(s) {
   return s.split(" ").map((el) => el[0]).join("");
