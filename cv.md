@@ -27,9 +27,9 @@ function makeString(s) {
 ```
 --------------------------
 ### Courses:
-#### «JavaScript для начинающих» on https://stepik.org (completed)
-#### «JavaScript Algorithms and Data Structures» on https://www.freecodecamp.org (in progress)
-#### RS School`s Course «JavaScript/Front-end Pre-School 2022Q4» on https://rs.school/js-stage0 (in progress)
+- «JavaScript для начинающих» on https://stepik.org (completed)
+- «JavaScript Algorithms and Data Structures» on https://www.freecodecamp.org (in progress)
+- RS School`s Course «JavaScript/Front-end Pre-School 2022Q4» on https://rs.school/js-stage0 (in progress)
 --------------------------
 ### Languages:
 - Russian - Native
