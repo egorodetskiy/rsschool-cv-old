@@ -163,7 +163,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: stretch;
-    padding: 10px;
+    padding-top: 150px;
     font-size: 0.8rem;
-    color: #080972;
+    color: rgb(1, 31, 7);
   }
